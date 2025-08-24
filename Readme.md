@@ -89,9 +89,4 @@ All computations and experiments are conducted using **Kaggle Notebooks**, enabl
 - Implement **model ensembling** to boost performance.
 - Deploy the model as a web app or integrate into clinical workflows.
 
----
-
-**Note**: Customize the notebook’s name, model architecture, or training details as per your actual code.  
-Let me know if you'd like help writing your `requirements.txt`, or if you want to add an overview of specific model metrics or visualizations from the notebook!
-::contentReference[oaicite:0]{index=0}
 
